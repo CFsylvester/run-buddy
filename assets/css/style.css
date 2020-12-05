@@ -29,7 +29,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background: url('/run-buddy/assets/images/hero-bg.jpg');
+    background: url("../images/hero-bg.jpg");
     background-size: cover;
     position: 80%;
     background-attachment: fixed;
@@ -100,7 +100,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background: url('/run-buddy/assets/images/hero-bg.jpg');
+    background: url('../images/hero-bg.jpg');
     background-size: cover;
     position: 80%;
     background-attachment: fixed;
@@ -502,7 +502,7 @@ section {
 }
 
 /*MEDIA QUERY FOR TABLETS AND SMALLER*/
-@media screen and (max-width 768px) {
+@media screen and (max-width: 768px) {
     /*this will be applied on any screen between 768px and 575px*/
     section {
         padding: 30px 15px;
@@ -539,7 +539,7 @@ section {
 }
 
 /*MEDIA QUERY FOR MOBIL PHONES AND SMALLER*/
-@media screem and (max-width 575px) {
+@media screem and (max-width: 575px) {
     /*this will be applied on any screen smaller than 575px*/
     .hero-form button {
         width: 100%;
