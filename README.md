@@ -15,7 +15,7 @@ Run Buddy is a responsive website created using pure CSS and HTML. To create res
 ## Usage
 
 #### Run Buddy Homepage:
-<img src="/assets/images/run-buddy-homepage.png" alt="Run Buddy Homepage" width="400"/>
+<img src="/assets/images/run-buddy-hompage.png" alt="Run Buddy Homepage" width="400"/>
 
 #### Responsive Hero:
 <img src="/assets/images/run-buddy-reach-out.png" alt="Run Buddy Responsive Hero" width="200"/>
