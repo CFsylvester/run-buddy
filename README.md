@@ -15,16 +15,16 @@ Run Buddy is a responsive website created using pure CSS and HTML. To create res
 ## Usage
 
 #### Run Buddy Homepage:
-<img src="/assets/images/homepage.png" alt="Run Buddy Homepage" width="400"/>
+<img src="/assets/images/run-buddy-homepage.png" alt="Run Buddy Homepage" width="400"/>
 
-#### Responsive Navigation:
-<img src="/assets/images/responsive-nav.png" alt="Horiseon Responsive Navigation" width="400"/>
+#### Responsive Hero:
+<img src="/assets/images/run-buddy-reach-out.png" alt="Run Buddy Responsive Hero" width="200"/>
 
-#### Responsive Body:
-<img src="/assets/images/responsive-body.png" alt="Horiseon Responsive Body" width="400"/>
+#### Responsive Meet The Trainers Section:
+<img src="/assets/images/run-buddy-meet.png" alt="Run Buddy Responsive Section" width="200"/>
 
-#### Responsive Sidebar:
-<img src="/assets/images/responsive-sidebar.png" alt="Horiseon Responsive Sidebar" width="400"/>
+#### Responsive Reach Out Section:
+<img src="/assets/images/run-buddy-reach-out.png" alt="Run Buddy Responsive Section" width="200"/>
 
 ## Installation
 <br />Navigate to directory you wish to save the clone to.  <br />
